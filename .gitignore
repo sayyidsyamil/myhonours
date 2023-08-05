@@ -1,0 +1,12 @@
+# .gitignore
+
+node_modules/
+npm-debug.log
+.DS_Store
+/build
+/.idea
+/.vscode
+*.env
+public/
+*.log
+coverage/
